@@ -1,6 +1,6 @@
 [submodule "/Users/philip/GitHub/dccbci/external_toolboxes/psychtoolbox"]
-	path = /Users/philip/GitHub/dccbci/external_toolboxes/psychtoolbox
+	path = external_toolboxes/psychtoolbox
 	url = https://github.com/Psychtoolbox-3/Psychtoolbox-3
 [submodule "/Users/philip/GitHub/dccbci/external_toolboxes/fieldtrip"]
-	path = /Users/philip/GitHub/dccbci/external_toolboxes/fieldtrip
+	path = external_toolboxes/fieldtrip
 	url = https://github.com/fieldtrip/fieldtrip
